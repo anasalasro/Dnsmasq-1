@@ -10,4 +10,6 @@
 
 # Referencias
 
+https://www.youtube.com/watch?v=FJgJKp95lyE
 
+https://juanjoselo.wordpress.com/2017/10/30/instalacion-y-configuracion-de-dnsmasq/
