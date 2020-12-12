@@ -1,9 +1,14 @@
 # Dnsmasq
+# Instalar dnsmasq
 
-# Instroducción
+# Indice
 
-# Instalación y configuración
+1.- Instroducción
 
-# Pruebas de funcionamiento
+2.- Instalación y configuración 
+
+3.- Pruebas de funcionamiento
 
 # Referencias
+
+
