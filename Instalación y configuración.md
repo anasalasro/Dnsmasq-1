@@ -1,7 +1,3 @@
-# Instalación y configuración
-
-![Instalación](/Fotos/Captura1.PNG)
-
 ## Instalación del servidor dnsmasq
 
 apt install dnsmasq
