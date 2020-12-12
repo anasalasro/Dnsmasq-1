@@ -1,4 +1,4 @@
-# Instalar dnsmasq
+# dnsmasq
 
 # Indice
 
