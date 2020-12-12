@@ -2,11 +2,11 @@
 
 # Indice
 
-1.- Introducción
+1.- [Introducción](https://github.com/pablomartinezz98/Dnsmasq/blob/main/Introducci%C3%B3n.md)
 
-2.- Instalación y configuración 
+2.- [Instalación y configuración](https://github.com/pablomartinezz98/Dnsmasq/blob/main/Instalaci%C3%B3n%20y%20configuraci%C3%B3n.md)
 
-3.- Pruebas de funcionamiento
+3.- [Pruebas de funcionamiento](https://github.com/pablomartinezz98/Dnsmasq/blob/main/Funcionamiento.md)
 
 # Referencias
 
