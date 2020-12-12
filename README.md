@@ -2,7 +2,7 @@
 
 # Indice
 
-1.- Instroducción
+1.- Introducción
 
 2.- Instalación y configuración 
 
